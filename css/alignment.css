@@ -1,0 +1,10 @@
+div {
+margin-left: 25%;
+padding: 1px 16px;
+height: 100%;
+}
+.profile-pic{
+  float: right;
+  padding-right: 200px;
+  padding-top: 20px;
+}
